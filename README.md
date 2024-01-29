@@ -1,2 +1,2 @@
-# Astro-98
+# Astro_98
 Homework .py files
