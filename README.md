@@ -1,2 +1,2 @@
 # Astro_98
-Homework .py files
+All things having to do with the python decal :)
