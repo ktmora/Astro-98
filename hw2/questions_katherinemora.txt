@@ -1,0 +1,16 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+'cd directory_name or path' allows you to move into a new path or directory, which essentially allows you to move around the files in your computer.
+'git clone [insert ssh]' allows you to clone a repo/folder onto your personal computer, which then allows you to edit the code in that repo/folder. (this is how we collab!)
+'python3 file_name' allwos you to run a file in python! very useful. 
+'nano file_name' allows you to open and edit a file through your terminal. 
+2. Do you have pets? What kind?
+I have a dog, Skippy, and a ball python snake, Reggie.
+3. If you run across an error, what would your first course of action be?
+First thing to do is to read the error message; instructions or clues to what caused the error are in the error message itself.
+4. Funniest thing that happened to you in high school.
+While streching before every dance show I had, I ripped my pants on my uniform. Guaranteed. Every. Time. So I just stopped stretching in 
+uniform and prayed instead. 
+5. What is a python script? (Keep it simple)
+A script is a file containing code that can be run in your command line. Your computer reads the scripts as recognizable, 
+comprehensible (hopefully) code and then life is good.
+
