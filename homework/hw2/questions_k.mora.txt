@@ -1,0 +1,17 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+'mkdir directory_name' makes a new directroy
+'mv og_file_path new_file_path' moves a file from one directory to another 
+'python3 file_name' runs a python file in code
+'nano file_name' allows your to edit a file in your terminal. (like I am doing now)
+2. Do you have pets? What kind?
+I have a dog, Skippy, and a ball python snake, Reggie. 
+3. If you run across an error, what would your first course of action be?
+READ THE ERROR! (I learned that well doing this homework, unfortunately, lol) The error almost always tells you what is wrong, or at least points you in the right direction. 
+4. Funniest thing that happened to you in high school.
+Picture this. I just ate up a performance (in jazz band), made it all the way down two flights of stairs, just to absolutely EAT IT on the last 4 or 
+5 steps. I was carrying my instrument and boba. Instrument was saved, boba was lost, and I hadn't drank any of it yet. On top of that, I was litterally
+bleeding when I got back to the bus, and one of our trumpet players saw me limping and carrying my heels, and decided it would be funny to point at my
+feet and call them ugly. High school was such a time lol. 
+5. What is a python script? (Keep it simple)
+A python script is essentially a line/file of code that is written and can be run in your command line, which the computer interprets as code. 
+
