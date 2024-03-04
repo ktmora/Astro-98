@@ -1,0 +1,8 @@
+planets = []
+planets.append("Mercury")
+planets.append("Earth")
+planets.append("Mars")
+planets.insert(1, "Venus")
+print(planets)
+#how do I open this file in my terminal in a way that lets me edit it there?
+#like how can I opepn this file so that I can edit it in python3
