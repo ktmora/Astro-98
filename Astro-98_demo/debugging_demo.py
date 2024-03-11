@@ -19,3 +19,7 @@ def factLoop(n):
     return total
 print(factLoop(3))
     
+## command to run doctest: 
+# first put """your code here """,
+# then go into your terminal and type :
+# python3 -m doctest file_name.file type
